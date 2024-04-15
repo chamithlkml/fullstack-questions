@@ -1,6 +1,4 @@
-# Basic React-Rails project
-
-This is a basic React frontend with Rails backend app which can be used for tests.
+# React, RoR based Full-Stack Questions Registry
 
 ## Setup Guide
 
